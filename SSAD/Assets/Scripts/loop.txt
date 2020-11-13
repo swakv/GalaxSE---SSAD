@@ -1,0 +1,38 @@
+
+int i = 0;
+for (int j= no-1; j > no-5; j--){
+   if (Monster.currentMonster =="Easy"){
+     if (String.Equals(result[j]["YourAnswer"].ToString(),result[j]["RightAnswer"].ToString())){
+      studentScore+=100;
+        if (Progress.currentPlanet == Progress.unlockedPlanet) {
+            Progress.planetCount += 1;
+        }
+      } 
+   }
+   else if (Monster.currentMonster == "Medium"){
+     if (String.Equals(result[j]["YourAnswer"].ToString(),result[j]["RightAnswer"].ToString())){
+        studentScore+=200;
+        if (Progress.currentPlanet == Progress.unlockedPlanet) {
+            Progress.planetCount += 1;
+        }
+    } 
+   }
+
+   else if (Monster.currentMonster=="Hard"){
+     if (String.Equals(result[j]["YourAnswer"].ToString(),result[j]["RightAnswer"].ToString())){
+              studentScore+=300;
+              if (Progress.currentPlanet == Progress.unlockedPlanet) {
+                  Progress.planetCount += 1;
+              }
+          } 
+   }
+
+   var updateProg = Builders<progDetails>.Update.Set("PlanetCount", Progress.planetCount);
+    progCollection.UpdateOne(filProg, updateProg);
+
+
+
+
+ }
+
+

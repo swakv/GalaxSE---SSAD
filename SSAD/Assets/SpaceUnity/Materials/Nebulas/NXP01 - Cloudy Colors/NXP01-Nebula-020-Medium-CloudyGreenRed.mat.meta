@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 42fc0ded2a02054458d70803c6e89c15
+labels:
+- brightness-medium
+- color-green
+- color-red
+- complexity-medium
+- style-cloudy
+- style-dark_matter
+NativeFormatImporter:
+  userData: 

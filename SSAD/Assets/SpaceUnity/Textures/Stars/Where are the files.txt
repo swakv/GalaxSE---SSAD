@@ -1,0 +1,9 @@
+Notice: "Stars" have been replaced by "Static Stars".
+See the version history in the manual: SpaceUnity/_Documentation
+
+It's recommended that you recreate the Static Stars using the
+Window  > Space Scene Construction Kit > editor and only having
+the "Static Stars" checkbox enabled to recreate stars.
+
+Alternatively you could import the textures from an older version
+of SPACE for Unity or your project.

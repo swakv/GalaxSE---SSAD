@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 95861e07fc8755d4f9f05f7088d13bad
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: f332f9d6f3c01484485457e21cf11bd7
+  - enabled: 1
+    path: Assets/Scenes/Galaxies.unity
+    guid: d6081811980f740fb94ec8f66f8b3171
+  - enabled: 1
+    path: Assets/Scenes/ChallengeMonster.unity
+    guid: c04b316a3275f44c7b19d37054b90f64
+  - enabled: 1
+    path: Assets/Scenes/AssignmentResult.unity
+    guid: 3104530844f82334fbd78f8a8c9c2d7b
+  - enabled: 1
+    path: Assets/Scenes/BGL1.unity
+    guid: 567c2c55793874ce19ae2d6007bcad8a
+  - enabled: 1
+    path: Assets/Scenes/BlueGalaxy.unity
+    guid: f72223fddf01242fc9bfd244ba9373ff
+  - enabled: 1
+    path: Assets/Scenes/ChallengeFriends.unity
+    guid: d8faff1de4e1e30409ee12a5dd3304aa
+  - enabled: 1
+    path: Assets/Scenes/CreateLevel.unity
+    guid: 8eff89e203a6447038cd77612160495b
+  - enabled: 1
+    path: Assets/Scenes/EasyLevel.unity
+    guid: 585503ce5692444c183ea313ef90e97e
+  - enabled: 1
+    path: Assets/Scenes/GGL1.unity
+    guid: b3c5615b408694c21b90c9551c13c1a2
+  - enabled: 1
+    path: Assets/Scenes/GreenGalaxy.unity
+    guid: a250a005e2560453eb2159191e4ca716
+  - enabled: 1
+    path: Assets/Scenes/HardLevel.unity
+    guid: f165abf1f3d504905849301e20a024af
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 2b2805e8718a446d880c75368846458c
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 230a28663c95f4ac8baca3407a5754fa
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 98c7039dae8194ae5aed20fa18d02579
+  - enabled: 1
+    path: Assets/Scenes/MediumLevel.unity
+    guid: acf7c88b962db485a8f30d83dc205765
+  - enabled: 1
+    path: Assets/Scenes/OGL1.unity
+    guid: 6f6509635d9ec4648a13039a1814dd69
+  - enabled: 1
+    path: Assets/Scenes/OrangeGalaxy.unity
+    guid: efdf9159580ad4a99a0f0b93d721865e
+  - enabled: 1
+    path: Assets/Scenes/RedGalaxy.unity
+    guid: ccf4ea66c52a44898a32d20a6a242326
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: eeb22afb26d2b4122a32b730d2c873a3
+  - enabled: 1
+    path: Assets/Scenes/RGL1.unity
+    guid: d2523ffce1adf42a4b3c32e3490c1925
+  - enabled: 1
+    path: Assets/Scenes/ShareOnSocialMedia.unity
+    guid: df06362ca54cc4c068161ac1a1536b72
+  - enabled: 1
+    path: Assets/Scenes/User Profile.unity
+    guid: 1a8f40716a6e9ba44a7db33fed9ba91e
+  - enabled: 1
+    path: Assets/Scenes/PopulateDB.unity
+    guid: c54db5a30ed0c1e4b9df4de478886821
+  m_configObjects: {}
